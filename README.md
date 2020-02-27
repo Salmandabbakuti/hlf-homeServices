@@ -6,7 +6,7 @@ Connecting Home services providers with service seekers just like Urbanclap impl
 **A Demonstration of Marketplace for connecting Service providers with service seekers** 
 It invloves in Providing Domestic services like Electrical Works, Plumbings,Electronics Repairs and Installations,Wedding Plans,Interior Designs etc.. 
 
-<img align="center" src="https://github.com/Salmandabbakuti/blob/master/readme_screen.jpg" width="90%">
+<img align="center" src="https://github.com/Salmandabbakuti/vServe/blob/master/readme_screen.jpg" width="90%">
 
 #### Demonstration
 
