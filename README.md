@@ -11,13 +11,13 @@ It invloves in Providing Domestic services like Electrical Works, Plumbings,Elec
 #### Demonstration
 
 ##### Partner Registration:
-![Partner Reg Demo](https://github.com/Salmandabbakuti/vServe/blob/master/gifs/JyA7kg.gif)
+![Partner Reg Demo](https://github.com/Salmandabbakuti/vServe/blob/master/gifs/partner.gif)
 
 ##### Service Booking:
 ![Booking Demo](https://github.com/Salmandabbakuti/vServe/blob/master/gifs/book.gif)
 
 ##### Service Allocation Demo:
-![Allocation Demo](https://github.com/Salmandabbakuti/vServe/blob/master/gifs/partner.gif)
+![Allocation Demo](https://github.com/Salmandabbakuti/vServe/blob/master/gifs/JyA7kg.gif)
 
 
 Application Demo Available at https://homeservices.netlify.com/
