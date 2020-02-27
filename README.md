@@ -11,10 +11,10 @@ It invloves in Providing Domestic services like Electrical Works, Plumbings,Elec
 #### Demonstration
 
 ##### Partner Registration:
-![Partner Reg Demo](gifs.com/gif/bookser-XLwkBg)
+![Partner Reg Demo](https://github.com/Salmandabbakuti/vServe/blob/master/gifs/JyA7kg.gif)
 
 ##### Service Booking:
-![Booking Demo](https://j.gifs.com/XLwkBg.gif)
+![Booking Demo](https://github.com/Salmandabbakuti/vServe/blob/master/gifs/book.gif)
 
 ##### Service Allocation Demo:
 ![Allocation Demo](https://j.gifs.com/JyA7kg.gif)
