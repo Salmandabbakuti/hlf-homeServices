@@ -17,7 +17,7 @@ It invloves in Providing Domestic services like Electrical Works, Plumbings,Elec
 ![Booking Demo](https://github.com/Salmandabbakuti/vServe/blob/master/gifs/book.gif)
 
 ##### Service Allocation Demo:
-![Allocation Demo](https://j.gifs.com/JyA7kg.gif)
+![Allocation Demo](https://github.com/Salmandabbakuti/vServe/blob/master/gifs/partner.gif)
 
 
 Application Demo Available at https://homeservices.netlify.com/
